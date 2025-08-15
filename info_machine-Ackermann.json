@@ -1,6 +1,6 @@
 {
     "arch": "AMD64",
-    "cpu": "",
+    "cpu": "Intel(R) Core(TM) i9-14900K",
     "cuda": {
         "gpu_name": "NVIDIA GeForce RTX 4090",
         "gpu_specifications": {
@@ -110,7 +110,7 @@
     },
     "machine": "Ackermann",
     "num_cpu": "32",
-    "os": "Windows 10",
+    "os": "Windows 11",
     "platform": {
         "architecture": [
             "64bit",
