@@ -7,9 +7,9 @@
     "results": {
         "time_remote_file_reading.DirectZarrFileReadBenchmark.time_read_zarr_force_no_consolidated": {
             "(\"'s3://aind-open-data/ecephys_625749_2022-08-03_15-15-06_nwb_2023-05-16_16-34-55/ecephys_625749_2022-08-03_15-15-06_nwb/ecephys_625749_2022-08-03_15-15-06_experiment1_recording1.nwb.zarr/'\",)": [
-                0.2753620409639552,
-                0.2874747909954749,
-                0.29610820900416
+                0.2959042500006035,
+                0.29485837498214096,
+                0.3074862080393359
             ]
         }
     }
